@@ -51,6 +51,7 @@
     "cmdk": "1.0.0",
     "date-fns": "^3.6.0",
     "embla-carousel-react": "^8.5.2",
+    "ethers": "5.7.2",
     "input-otp": "^1.4.2",
     "lucide-react": "^0.469.0",
     "mipd": "^0.0.7",
